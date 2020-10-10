@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://yinonB:madsXXjess1@devconnector.vekpf.mongodb.net/<dbname>?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken"
+    "jwtSecret": "mysecrettoken",
+    "githubClientID": "ce13383a14d863707c05",
+    "githubSecret": "75a6c7351616dbfc9ef1296451f16cd731515e64"
 }
